@@ -47,16 +47,16 @@ global.sessionName = 'session'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
-    success: 'Pernah Di Coba 🐦👍', //ubah...
-    admin: 'Cuma Admin Yang Bisa Ka,🐦',
-    botAdmin: 'Bot, Harus Di Jadiin Admin Dulu.🐦',
-    premime: 'Beli Premium Bang Murah🐦',
-    owner: 'Cuma Owner🐦', 
+    success: 'Rasanya Enak', //ubah...
+    admin: 'Cuma Admin.',
+    botAdmin: 'Bot Bukan Admin.',
+    premime: 'Premium Fitur.',
+    owner: 'Cuma Owner', 
     group: 'Cuma Bisa Di Group',
-    private: 'Chat Pribadi🐦 Biar Bisa Chattan Sama Owner Juga!',
-    bot: 'Cuma Bot Yang Bisa Access...',
-    wait: 'Sabar Onee-Chan><.',
-    linkm: 'Linknya Mana?',
+    private: 'Chat Pribadi. Kenalan Sekalian',
+    bot: 'Bot Access...',
+    wait: 'Sabar OneeChan',
+    linkm: 'Mana LinkNya?',
     endLimit: 'Upss Limit Kamu sudah habis..Tunggu Waktu menunjukan Pukul 12:00 Limit Anda otomatis akan Di reset!!!',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
 }
