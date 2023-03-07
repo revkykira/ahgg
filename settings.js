@@ -12,53 +12,53 @@ global.doc6 = 'application/vnd.android.package-archive'
 autoread = true //jangan di ubah
 global.footer = 'The System Complimentary Inc.'//ganti
 global.pulsa = "6285966393571"//ganti
-global.gopay = "null"//ganti
+global.gopay = "6285966393571"//ganti
 global.dana = "6285966393571"//ganti
-global.paypal = "null" // biarin aja kalau gaada
-global.shopay = "null" // biarin aja kalau gaada
-global.saweria = "null" // biarin aja kalau gaada
-global.sociabus = "null" // biarin aja kalau gaada
-global.bni = "null" // biarin aja kalau gaada
-global.bri = "null" // biarin aja kalau gaada
-global.bankjatim = "null" // biarin aja kalau gaada
-global.jago = "null" // biarin aja kalau gaada
-global.neobank = "null" // biarin aja kalau gaada
+global.paypal = "6285966393571" // biarin aja kalau gaada
+global.shopay = "6285966393571" // biarin aja kalau gaada
+global.saweria = "6285966393571" // biarin aja kalau gaada
+global.sociabus = "6285966393571" // biarin aja kalau gaada
+global.bni = "6285966393571" // biarin aja kalau gaada
+global.bri = "6285966393571" // biarin aja kalau gaada
+global.bankjatim = "6285966393571" // biarin aja kalau gaada
+global.jago = "6285966393571" // biarin aja kalau gaada
+global.neobank = "6285966393571" // biarin aja kalau gaada
 global.packname = 'Tsci Inc.'//ganti
-global.footer = '©SayHi'//ganti
+global.footer = '©DontForgetToDonate'//ganti
 global.ovo = "6285966393571"//ganti
 global.ownerlen = "Revky/Inc."//Ubah
 global.owner = ['6285966393571'] //ubh nomor owner hp
 global.ownername = "Tsci Inc." //ubah
 global.ytname = "YT: Revky"//ubah
-global.socialm = "IG: null"//ubah
+global.socialm = "IG: revkyrey"//ubah
 global.location = "Indonesia, Jawatimur, Lumajang"//ubah
 global.ownernomer = "6285966393571"//ubah nomorhp owner
 global.premium = ['6285966393571']//ubah nomor hp premium
 global.nomorcs = '6285966393571'
 global.botname = 'Tsci Inc.' //ubah
-global.linkz = "null"//ubah
+global.linkz = "6285966393571"//ubah
 global.websitex = "https://youtube.com/@revky487"//ubah
-global.botscript = '-'
+global.botscript = 'ga ada.'
 global.themeemoji = "♎"//ubah
 global.packname = "Sticker By"//ubah
 global.author = "Tsci Inc."//ubah
 global.wm = "Tsci Inc."//ubah
 global.sessionName = 'session'
-global.prefa = ['','!','.','#','&']
+global.prefa = [','!','.','#','&']
 global.sp = ''
 global.mess = {
-    success: 'Rasanya Enak', //ubah...
-    admin: 'Cuma Admin.',
-    botAdmin: 'Bot Bukan Admin.',
-    premime: 'Premium Fitur.',
-    owner: 'Cuma Owner', 
-    group: 'Cuma Bisa Di Group',
-    private: 'Chat Pribadi. Kenalan Sekalian',
-    bot: 'Bot Access...',
-    wait: 'Sabar OneeChan',
-    linkm: 'Mana LinkNya?',
-    endLimit: 'Upss Limit Kamu sudah habis..Tunggu Waktu menunjukan Pukul 12:00 Limit Anda otomatis akan Di reset!!!',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
+    success: 'ペドペドゥー..', //ubah...
+    admin: '管理者のみ。',
+    botAdmin: '非管理ボット。',
+    premime: 'プレミアム機能。',
+    owner: '所有者のみ', 
+    group: 'グループでのみ利用可能',
+    private: 'プライベートチャット。 ワンタイムコンタクト',
+    bot: 'ボットにアクセス...',
+    wait: '我慢お姉ちゃん ><',
+    linkm: 'リンクはどこですか？',
+    endLimit: 'Upss 制限がなくなりました.12:00 が表示されるまでお待ちください 制限は自動的にリセットされます!!!',
+    nsfw: 'nsfw 機能がアクティブ化されていません。管理者に連絡してアクティブ化してください',
 }
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
