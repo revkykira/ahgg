@@ -78,12 +78,8 @@ global.allmenu = `
 •―――― ⌜ *SCRIPT* ⌟ ――――•
 *github   : _gaada._*
 *run         : _koyeb._*
-•―――― ⌜ *HELLO.* ⌟ ――――•
 
-bot ini menggunakan sc case anda bisa menemukan
-sc" seperti ini di internet
-
-_#thanksforusing_`
+_#thanksforusingus:)_`
 
 global.limitawal = {
     premium: "Infinity",
