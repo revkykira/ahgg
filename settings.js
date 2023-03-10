@@ -44,8 +44,8 @@ global.packname = "Sticker By"//ubah
 global.author = "Tsci Inc."//ubah
 global.wm = "Tsci Inc."//ubah
 global.sessionName = 'session'
-global.prefa = ['$','!','.','#','&']
-global.sp = ''
+global.prefa = ['$']
+global.sp = '$'
 global.mess = {
     success: 'ペドペドゥー..', //ubah...
     admin: '管理者のみ。',
