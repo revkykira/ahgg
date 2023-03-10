@@ -83,11 +83,6 @@ global.allmenu = `
 bot ini menggunakan sc case anda bisa menemukan
 sc" seperti ini di internet
 
-_#thanksforusing_•
-
-bot ini menggunakan sc case anda bisa menemukan
-sc" seperti ini di internet
-
 _#thanksforusing_`
 
 global.limitawal = {
