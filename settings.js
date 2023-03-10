@@ -27,12 +27,12 @@ global.packname = 'Tsci Inc.'//ganti
 global.footer = '©DontForgetToDonate'//ganti
 global.ovo = "6285966393571"//ganti
 global.ownerlen = "Revky/Inc."//Ubah
-global.owner = ['revky|6285966393571'] //ubh nomor owner hp
+global.owner = ['6285966393571@s.whatsapp.net'] //ubh nomor owner hp
 global.ownername = "Tsci Inc." //ubah
 global.ytname = "YT: Revky"//ubah
 global.socialm = "IG: revkyrey"//ubah
 global.location = "Indonesia, Jawatimur, Lumajang"//ubah
-global.ownernomer = ['revky|6285966393571']//ubah nomorhp owner
+global.ownernomer = '6285966393571@s.whatsapp.net'//ubah nomorhp owner
 global.premium = ['6285966393571']//ubah nomor hp premium
 global.nomorcs = '6285966393571'
 global.botname = 'Tsci Inc.' //ubah
@@ -76,8 +76,8 @@ global.allmenu = `
 *pulsa xl : _085966393571_*
 *dana      : _085966393571_*
 •―――― ⌜ *SCRIPT* ⌟ ――――•
-*link                     : _gaada._*
-*run di aplikasi : _termux._*
+*link        : _gaada._*
+*run         : _koyeb._*
 •―――― ⌜ *HELLO.* ⌟ ――――•
 
 bot ini menggunakan sc case anda bisa menemukan
