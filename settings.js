@@ -72,16 +72,16 @@ global.thumb = fs.readFileSync("./Maslent/pplent/maslent.jpg")
 //SETTING AJA SUKA SUKA ASAL PERHATIIN TANDA PETIK MAUPUN KURUNG
 //Jagan lupa menunya di tambhin ya Soalnya saya capek wkkw
 global.allmenu = `
-•―――― ⌜ CONTOH 1⌟ ――――•
-bla bla
-bla bla
-•―――― ⌜ CONTOH 1⌟ ――――•
-bla bla
-bla bla
-•―――― ⌜ CONTOH 1⌟ ――――•
+•―――― ⌜ DONASI PULSA - DANA ⌟ ――――•
+pulsa xl : 085966393571
+dana : 085966393571
+•―――― ⌜ SCRIPT ON GITHUB ⌟ ――――•
+link : gaada.
+run di aplikasi : termux.
+•―――― ⌜ THANKS FOR USING ⌟ ――――•
 
-//dan text yang di awali // jangan di hapus sebagai penanda saja
-//ada petik di bawah text ini jangan di hapus kalau mau nambah list langsung tambah aja jangan hapus text ini dan petik di bawa ini
+bot ini menggunakan sc case anda bisa menemukan
+sc" seperti ini di internet #thanksforusing
 `
 
 
