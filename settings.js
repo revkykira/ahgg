@@ -44,7 +44,7 @@ global.packname = "Sticker By"//ubah
 global.author = "Tsci Inc."//ubah
 global.wm = "Tsci Inc."//ubah
 global.sessionName = 'session'
-global.prefa = ['.']
+global.prefa = '.'
 global.sp = ''
 global.mess = {
     success: 'ペドペドゥー..', //ubah...
@@ -77,9 +77,7 @@ global.allmenu = `
 *dana      : _085966393571_*
 •―――― ⌜ *SCRIPT* ⌟ ――――•
 *github   : _gaada._*
-*run         : _koyeb._*
-
-_#thanksforusingus:)_`
+*run         : _koyeb._*  `
 
 global.limitawal = {
     premium: "Infinity",
