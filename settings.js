@@ -27,12 +27,12 @@ global.packname = 'Tsci Inc.'//ganti
 global.footer = '©DontForgetToDonate'//ganti
 global.ovo = "6285966393571"//ganti
 global.ownerlen = "Revky/Inc."//Ubah
-global.owner = ['6285966393571'] //ubh nomor owner hp
+global.owner = ['revky|6285966393571'] //ubh nomor owner hp
 global.ownername = "Tsci Inc." //ubah
 global.ytname = "YT: Revky"//ubah
 global.socialm = "IG: revkyrey"//ubah
 global.location = "Indonesia, Jawatimur, Lumajang"//ubah
-global.ownernomer = "6285966393571"//ubah nomorhp owner
+global.ownernomer = ['revky|6285966393571']//ubah nomorhp owner
 global.premium = ['6285966393571']//ubah nomor hp premium
 global.nomorcs = '6285966393571'
 global.botname = 'Tsci Inc.' //ubah
@@ -44,7 +44,7 @@ global.packname = "Sticker By"//ubah
 global.author = "Tsci Inc."//ubah
 global.wm = "Tsci Inc."//ubah
 global.sessionName = 'session'
-global.prefa = ['','!','.','#','&']
+global.prefa = ['$','!','.','#','&']
 global.sp = ''
 global.mess = {
     success: 'ペドペドゥー..', //ubah...
@@ -84,7 +84,6 @@ bot ini menggunakan sc case anda bisa menemukan
 sc" seperti ini di internet
 
 _#thanksforusing_`
-
 
 global.limitawal = {
     premium: "Infinity",
